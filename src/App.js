@@ -12,7 +12,7 @@ class App extends Component {
   }
 
   componentWillMount(){
-    this.getChartData();
+    this.getchartData();
   }
 
   getChartData(){
