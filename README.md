@@ -1,4 +1,4 @@
-# ReachCharts App
+# ReactCharts App
 
 Example app showing you how to use react-chartjs-2 in a project
 
